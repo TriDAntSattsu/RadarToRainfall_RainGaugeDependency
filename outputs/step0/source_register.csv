@@ -24,3 +24,4 @@
 "JMA-21","解析雨量","気象庁","記載なし","","https://www.jma.go.jp/jma/kishou/know/kurashi/kaiseki.html","作成手法・参考資料","両製品","現行解説","製品概要と研修・技術資料の入口","本文確認","2026-11-26"
 "JMA-24","解析雨量の改善について ～二重偏波情報 Kdp の利用拡大～","気象庁","2026-03","","https://www.jma.go.jp/jma/kishou/know/expert/pdf/r7_text/r7_kaisekikdp.pdf","pp.4、7–8、10–13","両製品","主に2025-06-04の変更を解説。2026-03-12の変更はJMA-20","正規版と速報版の処理フロー、Kdp積算、雨量計補正値信頼処理、全国合成の主資料","本文確認","2026-11-26"
 "JMBSC-01","過去の気象データ｜解析雨量","気象業務支援センター","2023-05-12","","https://www.jmbsc.or.jp/jp/offline/cd0100.html","内容・特記事項","正規版・再解析","2014年以降のDVDは再解析","収録期間により格子・間隔・測地系が異なる","本文確認","2026-11-26"
+"MRI-01","A Method for Improving Radar Estimates of Precipitation by Comparing Data from Radars and Raingauges","日本気象学会（著者：気象研究所・牧原康隆）","1996-08-25","","https://www.jstage.jst.go.jp/article/jmsj1965/74/4/74_4_459/_article/-char/ja","pp.459–480、要旨","旧レーダー・アメダス解析雨量","1996年論文時点","レーダー感度と観測高度に由来する誤差を、レーダー間比較と地上雨量計を用いて推定する旧現業手法の一部","要旨確認","2026-11-26"
